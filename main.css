@@ -4,6 +4,9 @@ html {
     text-align: center;
     font-family: "Arial Black", sans-serif;
 }
+ul {
+    list-style: none;
+}
 a {
     color: black;
 }
@@ -19,7 +22,8 @@ h2 {
     background-color: blue;
     color: white;
 }
-.sous-titre {
+.titre {
     color: yellow;
     background-color: darkorchid;
+    border: solid 1rem black;
 }
