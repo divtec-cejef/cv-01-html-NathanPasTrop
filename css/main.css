@@ -3,7 +3,8 @@ html {
     color: darkblue;
     text-align: center;
     font-family: "Arial Black", sans-serif;
-    max-width: 150rem;
+    padding-left: 30%;
+    padding-right: 30%;
 }
 ul {
     list-style: none;
@@ -35,4 +36,8 @@ a:hover {
     color: yellow;
     background-color: darkorchid;
     border: solid 1rem black;
+}
+body {
+    background-image: url("img/orange.png");
+    background-repeat: repeat;//ne marche pas
 }
