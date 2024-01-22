@@ -2,6 +2,7 @@ html {
     background-color: orange;
     color: darkblue;
     text-align: center;
+    font-family: "Arial Black", sans-serif;
 }
 a {
     color: black;
@@ -9,6 +10,7 @@ a {
 h1 {
     color: aliceblue;
     background-color: crimson;
+    font-family: "Calibri Light", sans-serif;
 }
 h2 {
     color: blueviolet;
