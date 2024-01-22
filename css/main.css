@@ -3,6 +3,7 @@ html {
     color: darkblue;
     text-align: center;
     font-family: "Arial Black", sans-serif;
+    max-width: 150rem;
 }
 ul {
     list-style: none;
@@ -13,17 +14,22 @@ a {
 h1 {
     color: aliceblue;
     background-color: crimson;
-    font-family: "Calibri Light", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 3rem;
+    text-shadow: 5px 5px 15px blue;
 }
 h2 {
     color: blueviolet;
     font-size: 22px;
+    font-family: "Book Antiqua", sans-serif;
 }
 .menu a, .menu {
     background-color: blue;
     color: white;
     font-size: 1.05em;
+}
+a:hover {
+    color: red;
 }
 .titre {
     color: yellow;
