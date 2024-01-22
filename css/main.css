@@ -38,7 +38,7 @@ a:hover {
     border: solid 1rem black;
 }
 body {
-    background-image: url("img/orange.png");
+    background-image: url("../img/orange.png");
     background-position: center;
     background-repeat: repeat;
 }
