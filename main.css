@@ -1,7 +1,23 @@
 html {
     background-color: orange;
     color: darkblue;
+    text-align: center;
 }
 a {
-    color: blue;
+    color: black;
+}
+h1 {
+    color: aliceblue;
+    background-color: crimson;
+}
+h2 {
+    color: blueviolet;
+}
+.menu {
+    background-color: blue;
+    color: white;
+
+}
+.sous-titre {
+
 }
